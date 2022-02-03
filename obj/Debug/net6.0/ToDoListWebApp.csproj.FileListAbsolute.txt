@@ -1,0 +1,52 @@
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/appsettings.json
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.staticwebassets.runtime.json
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.deps.json
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.runtimeconfig.json
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.dll
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ref/ToDoListWebApp.dll
+/Users/anibalventura/Developer/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.pdb
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.csproj.AssemblyReference.cache
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.AssemblyInfoInputs.cache
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.AssemblyInfo.cs
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.csproj.CoreCompileInputs.cache
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.RazorAssemblyInfo.cache
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.RazorAssemblyInfo.cs
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/scopedcss/bundle/ToDoListWebApp.styles.css
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/scopedcss/projectbundle/ToDoListWebApp.bundle.scp.css
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.dll
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ref/ToDoListWebApp.dll
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.pdb
+/Users/anibalventura/Developer/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.genruntimeconfig.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/appsettings.Development.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/appsettings.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.staticwebassets.runtime.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.deps.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.runtimeconfig.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.dll
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ref/ToDoListWebApp.dll
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/bin/Debug/net6.0/ToDoListWebApp.pdb
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.csproj.AssemblyReference.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.AssemblyInfoInputs.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.AssemblyInfo.cs
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.csproj.CoreCompileInputs.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.RazorAssemblyInfo.cache
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.RazorAssemblyInfo.cs
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/staticwebassets.build.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/staticwebassets.development.json
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/scopedcss/bundle/ToDoListWebApp.styles.css
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/scopedcss/projectbundle/ToDoListWebApp.bundle.scp.css
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.dll
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ref/ToDoListWebApp.dll
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.pdb
+/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/Debug/net6.0/ToDoListWebApp.genruntimeconfig.cache

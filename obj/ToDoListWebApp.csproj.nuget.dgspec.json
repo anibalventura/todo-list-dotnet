@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/ToDoListWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/ToDoListWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/ToDoListWebApp.csproj",
+        "projectName": "ToDoListWebApp",
+        "projectPath": "/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/ToDoListWebApp.csproj",
+        "packagesPath": "/Users/anibalventura/.nuget/packages/",
+        "outputPath": "/Users/anibalventura/Library/Mobile Documents/com~apple~CloudDocs/Education/Software/University/Software Technologist/4th Quarter/(TDS-006) Programación II/Asignaciones/(Modulo 1) Asignación - Capa Presentación/ToDoListWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anibalventura/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
